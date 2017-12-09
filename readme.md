@@ -1,7 +1,7 @@
 # Express Simplest
 This repository is a demo of creating simple apps which serve static content using express
 
-##Prerequisites
+## Prerequisites
 - [Node.js](https://nodejs.org/en/download/)
 
 ## Getting Started
